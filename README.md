@@ -1,4 +1,4 @@
-### Apprendre Ruby on rails par l'exemple - Michael Hartl
+### Apprendre Ruby on Rails par l'exemple - Michael Hartl
 
 <hr>
  
@@ -6,10 +6,10 @@
 
 ##### Plan
 
-&#9745; Chapitre 1 De zéro au déploiement
+&#9745; Chapitre 1 - De zéro au déploiement
 
 
-&#9745; Chapitre 2 Une application démo  
+&#9745; Chapitre 2 - Une application démo  
 
 
 * Chapitre 3 Pages statiques courantes 
